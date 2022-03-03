@@ -1,0 +1,46 @@
+html{
+    background-color: #829399;
+}
+
+.header{
+  position:fixed;
+  top: 0;
+  font-family: 'Nixie One', cursive;
+  text-align: center;
+  background-color: #B1CC74
+}
+
+.headerB{
+    text-align:center;
+    width: 35%;
+    height: 50%;
+    background: #B1CC74;
+    border-radius: 10%;
+}
+.headerC{
+  font-family: 'Nixie One', cursive;
+  font-family: 'Noto Serif', serif;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .linkedin {   
+    background: #0e76a8;   
+    color: white;   
+  }
+  .instagram {   
+    background: #3f729b;   
+    color: white;   
+    }         
